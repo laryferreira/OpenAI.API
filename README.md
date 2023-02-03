@@ -4,6 +4,7 @@
 </div>
 
 ### What is an API?
+#
 <code> An API, or application programming interface, is a set of defined rules that enable different applications to communicate with each other. It acts as an intermediary layer that processes data transfers between systems, letting companies open their application data and functionality to external third-party developers, business partners, and internal departments within their companies. 
 </code> src: IBM
 
@@ -13,5 +14,5 @@ These models can be used for everything from content generation to semantic sear
 ### Your own text generator:
 Learn how to generate or manipulate text
 
-### Your own image generator:
+### Your own image generator: 
 Learn how to generate or manipulate images with our DALL·E models
