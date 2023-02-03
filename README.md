@@ -11,8 +11,8 @@
 The OpenAI API can be applied to virtually any task that involves understanding or generating natural language or code. 
 These models can be used for everything from content generation to semantic search and classification.
 
-### Your own text generator:
+### > Your own text generator:
 Learn how to generate or manipulate text
 
-### Your own image generator: 
+### > Your own image generator: 
 Learn how to generate or manipulate images with our DALL·E models
