@@ -1,4 +1,4 @@
-# OpenAI - Dealing with API
+# OpenAI - How to deal with API's
 <div align='center'>
 <img src="https://imgs.search.brave.com/T4DSowp-oCMR1Qmo2x07lvwASX7ackIFfHs_1fFDA4Y/rs:fit:1200:960:1/g:ce/aHR0cHM6Ly92ZW50/dXJlYmVhdC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTkv/MDMvb3BlbmFpLTEu/cG5nP3pvb209MiZy/ZXNpemU9MTIwMCUy/QzYwMCZzdHJpcD1h/bGw" width=40%, height=40%/>
 </div>
