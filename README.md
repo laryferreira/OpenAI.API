@@ -16,3 +16,4 @@ Learn how to generate or manipulate text
 
 ### > Your own image generator: 
 Learn how to generate or manipulate images with our DALL·E models
+
