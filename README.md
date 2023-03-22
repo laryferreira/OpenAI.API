@@ -15,5 +15,5 @@ These models can be used for everything from content generation to semantic sear
 Learn how to generate or manipulate text
 
 ### > Your own image generator: 
-Learn how to generate or manipulate images with our DALL·E models
+Learn how to generate or manipulate images with DALL·E models
 
